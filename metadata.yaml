@@ -1,0 +1,35 @@
+_repo: The-Christian-Motheror-Notes-for-Mothers-Meetings_42291
+_version: 0.1.0
+contributor:
+  author_of_introduction:
+    agent_name: Hoare, Edward
+    birthdate: 1812
+    deathdate: 1894
+    gutenberg_agent_id: '39940'
+    url: http://www.gutenberg.org/2009/agents/39940
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hoare, Maria Eliza
+    aliases:
+    - Hoare, M. E.
+    - Hoare, E., Mrs.
+    gutenberg_agent_id: '41616'
+    url: http://www.gutenberg.org/2009/agents/41616
+description: ''
+gutenberg_issued: '2013-03-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42291'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BV'
+- !lcsh 'Mothers -- Conduct of life'
+- !lcsh 'Mothers -- Religious life'
+title: The Christian Mother; or, Notes for Mothers' Meetings
+url: http://www.gutenberg.org/ebooks/42291
